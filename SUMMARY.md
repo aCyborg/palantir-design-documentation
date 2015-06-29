@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Tools
+* [Tools](tools-introduction.md)
 * Our Process
 * [Wireframes](wireframes.md)
 * Static Comps
