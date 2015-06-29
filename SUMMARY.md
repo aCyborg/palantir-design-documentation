@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * Our Process
    * Styletiles
+       * Tools
    * Wireframes
    * Static Comps
    * User Testing
