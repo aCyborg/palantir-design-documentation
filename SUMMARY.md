@@ -16,6 +16,7 @@
        * Conducting User Tests
        * Synthesizing and Integrating Findings
    * Prototyping
+       * Tools
 * Prototypes
 * Accessibility
 
