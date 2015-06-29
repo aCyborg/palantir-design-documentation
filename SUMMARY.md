@@ -18,13 +18,13 @@
    * Prototyping
        * Tools
        * Living Styleguides
-* Accessibility
-   * The Basics
-   * Advanced guidelines
-   * Resources
 * Design Systems
    * Elements
    * Components
    * Templates/Pages
    * Implementing your design system
+* Accessibility
+   * The Basics
+   * Advanced guidelines
+   * Resources
 
