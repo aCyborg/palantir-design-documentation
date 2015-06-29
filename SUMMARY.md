@@ -21,7 +21,7 @@
 * Prototypes
 * Accessibility
 * Design Systems
-   * Components
    * Elements
+   * Components
    * Templates/Pages
 
