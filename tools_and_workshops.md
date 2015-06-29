@@ -5,4 +5,5 @@ This file reviews the various tools we can use such as:
 * Metaphor exercise
 * I like, I wish, I wonder
 * Sites we like/Don't like
+* Personas
 * Etc.
