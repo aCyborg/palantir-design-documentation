@@ -17,6 +17,7 @@
        * Synthesizing and Integrating Findings
    * Prototyping
        * Tools
+       * Living Styleguides
 * Prototypes
 * Accessibility
 
