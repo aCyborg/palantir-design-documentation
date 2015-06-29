@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Discovery
 * Our Process
    * Styletiles
        * Tools
@@ -28,5 +29,4 @@
    * Advanced guidelines
    * Resources
 * Presenting to the Client
-* Discovery
 
