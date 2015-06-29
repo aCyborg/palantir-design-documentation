@@ -4,5 +4,5 @@
 * Tools
 * Our Process
 * [Wireframes](wireframes.md)
-* Static Comp Guidelines
+* Static Comps
 
