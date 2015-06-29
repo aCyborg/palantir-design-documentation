@@ -5,6 +5,7 @@
 * Our Process
    * Styletiles
    * Wireframes
+   * Static Comps
 * [Wireframes](wireframes.md)
 * Static Comps
 * Prototypes
