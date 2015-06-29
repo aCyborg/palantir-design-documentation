@@ -1,6 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
+
+---
+
 * Discovery
    * [Tools and Workshops](tools_and_workshops.md)
    * [The Goals of Discovery](the_goals_of_discovery.md)
