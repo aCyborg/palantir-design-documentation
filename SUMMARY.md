@@ -22,6 +22,7 @@
 * Accessibility
    * The Basics
    * Advanced guidelines
+   * Resources
 * Design Systems
    * Elements
    * Components
