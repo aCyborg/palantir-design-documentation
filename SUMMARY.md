@@ -10,6 +10,7 @@
        * Guidelines
    * Static Comps
        * Tools
+       * Guidelines
    * User Testing
    * Prototyping
 * Wireframes
