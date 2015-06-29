@@ -13,7 +13,6 @@
        * Guidelines
    * User Testing
    * Prototyping
-* Static Comps
 * Prototypes
 * Presenting to Clients
 * Accessibility
