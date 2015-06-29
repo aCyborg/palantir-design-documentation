@@ -28,4 +28,5 @@
    * Advanced guidelines
    * Resources
 * Presenting to the Client
+* Discovery
 
