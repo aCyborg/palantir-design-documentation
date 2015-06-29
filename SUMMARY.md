@@ -4,6 +4,7 @@
 * Our Process
    * Styletiles
        * Tools
+       * Standards
    * Wireframes
    * Static Comps
    * User Testing
