@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * Discovery
+   * Tools and Workshops
 * Our Process
    * Styletiles
        * Tools
