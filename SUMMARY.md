@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * Discovery
    * Tools and Workshops
+   * The Goals of Discovery
 * Our Process
    * Styletiles
        * Tools
