@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * Tools
-* Wireframing Guidelines
 * Process
+* Wireframing Guidelines
 
