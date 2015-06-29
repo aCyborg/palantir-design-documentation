@@ -14,6 +14,5 @@
    * User Testing
    * Prototyping
 * Prototypes
-* Presenting to Clients
 * Accessibility
 
