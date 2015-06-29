@@ -18,7 +18,6 @@
    * Prototyping
        * Tools
        * Living Styleguides
-* Prototypes
 * Accessibility
    * The Basics
    * Advanced guidelines
