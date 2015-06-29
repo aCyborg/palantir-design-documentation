@@ -13,6 +13,7 @@
        * Guidelines
    * User Testing
        * Tools
+       * Conducting User Tests
    * Prototyping
 * Prototypes
 * Accessibility
