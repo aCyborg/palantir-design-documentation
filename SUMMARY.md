@@ -20,6 +20,7 @@
        * Living Styleguides
 * Prototypes
 * Accessibility
+   * The Basics
 * Design Systems
    * Elements
    * Components
