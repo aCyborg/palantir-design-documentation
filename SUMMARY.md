@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * Tools
 * Process
-* Wireframing Guidelines
+* [Wireframing Guidelines](wireframes.md)
 * Static Comp Guidelines
 
