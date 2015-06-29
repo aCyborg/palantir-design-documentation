@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * Tools
-* Process
+* Our Process
 * [Wireframes](wireframes.md)
 * Static Comp Guidelines
 
