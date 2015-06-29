@@ -27,4 +27,5 @@
    * The Basics
    * Advanced guidelines
    * Resources
+* Presenting to the Client
 
