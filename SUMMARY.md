@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Tools](tools-introduction.md)
 * Our Process
    * Styletiles
    * Wireframes
