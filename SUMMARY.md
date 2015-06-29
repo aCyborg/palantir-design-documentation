@@ -4,4 +4,5 @@
 * Tools
 * Process
 * Wireframing Guidelines
+* Static Comp Guidelines
 
