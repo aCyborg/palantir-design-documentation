@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Discovery
+* [Discovery](discovery.md)
 * Our Process
    * Styletiles
        * Tools
