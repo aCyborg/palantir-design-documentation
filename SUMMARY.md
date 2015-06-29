@@ -23,4 +23,5 @@
 * Design Systems
    * Components
    * Elements
+   * Templates/Pages
 
