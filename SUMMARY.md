@@ -4,7 +4,7 @@
 * Our Process
    * Styletiles
        * Tools
-       * Standards
+       * Guidelines
    * Wireframes
    * Static Comps
    * User Testing
