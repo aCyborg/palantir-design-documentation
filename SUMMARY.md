@@ -6,6 +6,7 @@
    * Styletiles
    * Wireframes
    * Static Comps
+   * User Testing
 * [Wireframes](wireframes.md)
 * Static Comps
 * Prototypes
